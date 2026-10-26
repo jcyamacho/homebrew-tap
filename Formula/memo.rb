@@ -1,8 +1,8 @@
 class Memo < Formula
   desc "Durable memory CLI for humans and coding agents"
   homepage "https://github.com/jcyamacho/memo"
-  url "https://github.com/jcyamacho/memo/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "49c0baca7a29d4c8e9e0d154c51f81bd85b3c25b250a89fa413c38ba31bc40c8"
+  url "https://github.com/jcyamacho/memo/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "e0e22f9e05b9874e948ed115720251c8bd3cbd8c60266c8297dc5e234133eab9"
 
   depends_on "go" => :build
 
